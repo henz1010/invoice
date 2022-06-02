@@ -41,6 +41,10 @@ INSTALLED_APPS = [
     'profiles',
     'receivers',
     'invoices',
+    'positions',
+
+    # 3rd party
+    'import_export'
 ]
 
 MIDDLEWARE = [
